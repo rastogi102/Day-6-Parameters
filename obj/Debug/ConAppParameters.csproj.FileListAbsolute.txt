@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\DAY-6\Parameters\ConAppParameters\ConAppParameters\bin\Debug\ConAppParameters.exe.config
+F:\Training Stuff\Dot netTraining\DAY-6\Parameters\ConAppParameters\ConAppParameters\bin\Debug\ConAppParameters.exe
+F:\Training Stuff\Dot netTraining\DAY-6\Parameters\ConAppParameters\ConAppParameters\bin\Debug\ConAppParameters.pdb
+F:\Training Stuff\Dot netTraining\DAY-6\Parameters\ConAppParameters\ConAppParameters\obj\Debug\ConAppParameters.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\DAY-6\Parameters\ConAppParameters\ConAppParameters\obj\Debug\ConAppParameters.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\DAY-6\Parameters\ConAppParameters\ConAppParameters\obj\Debug\ConAppParameters.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\DAY-6\Parameters\ConAppParameters\ConAppParameters\obj\Debug\ConAppParameters.exe
+F:\Training Stuff\Dot netTraining\DAY-6\Parameters\ConAppParameters\ConAppParameters\obj\Debug\ConAppParameters.pdb
